@@ -1,4 +1,4 @@
-package com.gupao.vip2019.archiiecture.pattern;
+package com.gupao.vip2019.architecture.pattern;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
